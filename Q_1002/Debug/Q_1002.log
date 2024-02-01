@@ -1,0 +1,4 @@
+﻿  Q_1002.c
+C:\Users\rkfka\OneDrive\바탕 화면\study\BAEKJOON\Q_1002\Q_1002.c(26,43): warning C4778: 'printf' : 서식 문자열 '%0\n'이(가) 종결되지 않았습니다.
+C:\Users\rkfka\OneDrive\바탕 화면\study\BAEKJOON\Q_1002\Q_1002.c(27,43): warning C4778: 'printf' : 서식 문자열 '%0\n'이(가) 종결되지 않았습니다.
+  Q_1002.vcxproj -> C:\Users\rkfka\OneDrive\바탕 화면\study\BAEKJOON\Q_1000\Debug\Q_1002.exe
