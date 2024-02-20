@@ -26,5 +26,6 @@ int main(void)
     area=(max_x-min_x)*(max_y-min_y);
 
     printf("%d\n", area);
+    
     return 0;
 }
