@@ -5,17 +5,17 @@
 int main(void)
 {
     int N;
-    int a=3, b=2;
+    int dot=3, rep=2;
 
     scanf("%d", &N);
 
     for(int i=1;i<N;i++)
     {
-        a+=b;
-        b*=2;
+        dot+=rep;
+        rep*=2;
     }
 
-    printf("%d", a*a);
+    printf("%d", dot*dot);
 
     return 0;
 }
