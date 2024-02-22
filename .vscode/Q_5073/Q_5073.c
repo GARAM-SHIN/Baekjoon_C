@@ -56,7 +56,7 @@ void triangle(int a, int b, int c, int max)
         {
             printf("Equilateral\n");
         }
-        else if((a==b)||(b==c)||(a==c))
+        else if((a==b && a!=c)||(a==c &&a!=b)||(b==c&&b!=a))
         {
             printf("Isosceles\n");
         }
