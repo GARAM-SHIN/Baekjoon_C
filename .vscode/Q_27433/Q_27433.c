@@ -5,7 +5,7 @@
 int main()
 {
     int N;
-    long long factorial[20];
+    long long factorial[21];
 
     scanf("%d", &N);
 
